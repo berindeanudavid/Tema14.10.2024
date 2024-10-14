@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Dutu\Desktop\WORK\EMANUEL\2.Profesor Mircea Bodog\Teme\Tema15.10.2024\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3351353758.index
